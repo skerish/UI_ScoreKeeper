@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UI_ScoreKeeper</string>
+    <string name="plusBtn">Plus Button</string>
+    <string name="minusBtn">Minus Button</string>
+    <string name="team1">Team 1</string>
+    <string name="initialCount">0</string>
+    <string name="team2">Team 2</string>
+
+    <string name="night_mode">Night Mode</string>
+    <string name="day_mode">Day Mode</string>
+</resources>
