@@ -6,13 +6,18 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+
     </style>
-    
-    
+
     <style name="ScoreButtons" parent="Widget.AppCompat.ImageButton">
-        <item name="android:background">@drawable/button_background</item>
-        <item name="android:tint">@color/colorPrimary</item>
+        <item name="android:background">@drawable/switcher</item>
+        <item name="android:tint">@drawable/color_switcher</item>
     </style>
+
+    <!--<style name="ScoreButtonsNight" parent="Widget.AppCompat.ImageButton">-->
+        <!--<item name="android:background">@drawable/button_background_night</item>-->
+        <!--<item name="android:tint">@color/white</item>-->
+    <!--</style>-->
 
     <style name="PlusButtons" parent="ScoreButtons">
         <item name="android:src">@drawable/ic_plus</item>
